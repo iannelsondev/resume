@@ -1,7 +1,7 @@
 #IAN NELSON
 * ADDRESS 50 Arundel Beach Rd., Severna Park MD, 21146
 * PHONE (four)(seven)(nine) 567 (six)(six)(two)(two)
-* E-MAIL iannelson1@gmail.com
+* E-MAIL iannelson1 [at] gmail.com
 * LINKEDIN https://www.linkedin.com/in/ian-nelson-860a7765
 
 ##SUMMARY
