@@ -1,8 +1,8 @@
 #IAN NELSON
-50 Arundel Beach Rd., Severna Park MD, 21146
-PHONE (four)(seven)(nine) 567 (six)(six)(two)(two)
-E-MAIL iannelson1@gmail.com
-LINKEDIN https://www.linkedin.com/in/ian-nelson-860a7765
+* ADDRESS 50 Arundel Beach Rd., Severna Park MD, 21146
+* PHONE (four)(seven)(nine) 567 (six)(six)(two)(two)
+* E-MAIL iannelson1@gmail.com
+* LINKEDIN https://www.linkedin.com/in/ian-nelson-860a7765
 
 ##SUMMARY
 Full-stack software engineer with over 15 years of development and analysis experience solving some of the nation’s most difficult problems inside of the Intelligence Community and U.S. Military. I pride myself on work ethic, a consistent commitment to learning new technologies and am passionate about working on challenging problems with others.
