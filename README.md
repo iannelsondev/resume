@@ -32,7 +32,7 @@ Full-spectrum software engineer with over 15 years of development and analysis e
 - JavaScript / Node.js
 - HTML5 / Web Libs.
 - Java
-- Scala
+- Go
 - Python
 - Linux Systems / CLI
 - Spark / Hadoop
