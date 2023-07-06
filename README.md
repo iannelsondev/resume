@@ -68,7 +68,7 @@ Full-spectrum solutions architect and analyst with over 20 years of development 
 
 ### Coalition - San Francisco, CA
 
-- April 2018 to Present
+- December 2021 to Present
 - Insurance Operations Strategist (Remote Position)
 
 #### Highlights
@@ -84,7 +84,7 @@ Full-spectrum solutions architect and analyst with over 20 years of development 
 
 ### Coalition - San Francisco, CA
 
-- April 2018 to December 2021
+- March 2018 to December 2021
 - Senior Principal Engineer (Remote Position)
 
 #### Highlights
