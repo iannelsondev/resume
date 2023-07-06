@@ -11,7 +11,7 @@ https://www.linkedin.com/in/ian-nelson-860a7765
 ## OTHER CONTACT INFORMATION
 
 - Contact via email or message via LinkedIn for direct phone number or other information.
-- Not currently interested in cleared / national security positions.
+- Not currently interested actively cleared at any level.
 
 ## SUMMARY
 
