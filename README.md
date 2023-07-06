@@ -72,11 +72,16 @@ Full-spectrum software engineer with over 15 years of development and analysis e
 
 #### Highlights
 
-- Leading company efforts in Customer Security Team
+- Acted as lead principal engineer through three iterations of VP of Engineering, providing technical and business continuity
+- Led company efforts in Customer Security Team, resulting in increased automation, consistency and improvement of loss ratio
 - Developed scalable client security analysis service in parallel with business product team
-- Worked with security engineers to help implement autonomous versions of tradecraft trials
+- Worked with security engineers to help implement autonomous versions of tradecraft into development and production systems
 - Worked with junior engineers to assist in technological design approaches and mentoring
-- Implemented system queuing and task dispatch system using Apache NiFi
+- Implemented system queuing and task dispatch system using Apache NiFi. Later used as the baseline for further automated security improvements over the course of systems development
+- Developed and sustained the automated renewals program from inception to modern day implementation, resulting in the development of an ROI worth $100m's of GWP
+- Worked as a technical lead for M&A activities during the acquisition of BinaryEdge, including eventual technical integration between both systems to facilitate and improve underwriting
+- Developed in conjunction with VP of Engineering the current set of processes by which the department operations, including: team breakouts and assignment, architecture review documentation and review board, quarterly planning with agile sprint follow-on.
+- Served as the lead for the Engineering department's corps of principal engineers to facilitate discussions, agreed-upon solutions, and pathways for improvement in the production software and infrastructure
 
 ### Clarity Innovations - Columbia, MD
 
