@@ -15,7 +15,7 @@ https://www.linkedin.com/in/ian-nelson-860a7765
 
 ## SUMMARY
 
-Full-spectrum software engineer with over 15 years of development and analysis experience solving some of the nation’s most difficult problems inside of the Intelligence Community and U.S. Military. I pride myself on work ethic, a consistent commitment to learning new technologies and am passionate about working on challenging problems with others.
+Full-spectrum solutions architect and analyst with over 20 years of development and analysis experience solving some of the nation’s most difficult problems inside of the Intelligence Community, U.S. Military and private sector. I pride myself on work ethic, a consistent commitment to learning new technologies and am passionate about working on challenging problems with others.
 
 ## SKILLS
 
@@ -68,7 +68,23 @@ Full-spectrum software engineer with over 15 years of development and analysis e
 ### Coalition - San Francisco, CA
 
 - April 2018 to Present
-- Principal Software Engineer (Remote Position)
+- Insurance Operations Strategist (Remote Position)
+
+#### Highlights
+
+- Migrated from Lead Principal Engineer to the Business unit to serve as the applied technologist for insurance relationships and operations
+- Negotiated, closed and implemented ZenDesk and Salesforce FSC as MVP systems within the business unit. This included working with our Product organization to ensure proper systems integration with our insuretech was being considered
+- Served as technical leadership for the Renewals program, including review of all quarterly work themes for Product/Engineering, development of SLAs and telemetry used to optimize team performance within ZenDesk, and development of target metrics for team hiring and scale during hyper-growth resulting in a total ROI during this period of $250m / GWP
+- Developed optimized process using technology for Customer Success organization, leading to base telemetry on inbound/outbound/performance for the first time in company history. Lead to consistent improvement in problem areas, fixing long standing issues with insurance brokers
+- Worked with senior agency Cyber program leads to increase market penetration and adoption of Coalition policies and coverage across the industry
+- Acted as company SME in applied security to act as a guide and resource for brokers, prospective policyholders, and internal employees to facilitate business opportunities
+- Developed new and improved relationships between the corporation and US/UK Federal LEOs leading to better cooperation on cyber crimes, and improved financial recovery access for policyholders
+- Served as liaison between security companies and vendors to improve Coalition underwriting and incident response capabilities through data access and services, including claims panel access
+
+### Coalition - San Francisco, CA
+
+- April 2018 to December 2021
+- Senior Principal Engineer (Remote Position)
 
 #### Highlights
 
@@ -80,7 +96,7 @@ Full-spectrum software engineer with over 15 years of development and analysis e
 - Implemented system queuing and task dispatch system using Apache NiFi. Later used as the baseline for further automated security improvements over the course of systems development
 - Developed and sustained the automated renewals program from inception to modern day implementation, resulting in the development of an ROI worth $100m's of GWP
 - Worked as a technical lead for M&A activities during the acquisition of BinaryEdge, including eventual technical integration between both systems to facilitate and improve underwriting
-- Developed in conjunction with VP of Engineering the current set of processes by which the department operations, including: team breakouts and assignment, architecture review documentation and review board, quarterly planning with agile sprint follow-on.
+- Developed in conjunction with VP of Engineering the current set of processes by which the department operations, including: team breakouts and assignment, architecture review documentation and review board, quarterly planning with agile sprint follow-on
 - Served as the lead for the Engineering department's corps of principal engineers to facilitate discussions, agreed-upon solutions, and pathways for improvement in the production software and infrastructure
 
 ### Clarity Innovations - Columbia, MD
