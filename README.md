@@ -96,7 +96,7 @@ Full-spectrum solutions architect and analyst with over 20 years of development 
 - Implemented system queuing and task dispatch system using Apache NiFi. Later used as the baseline for further automated security improvements over the course of systems development
 - Developed and sustained the automated renewals program from inception to modern day implementation, resulting in the development of an ROI worth $100m's of GWP
 - Worked as a technical lead for M&A activities during the acquisition of BinaryEdge, including eventual technical integration between both systems to facilitate and improve underwriting
-- Developed in conjunction with VP of Engineering the current set of processes by which the department operations, including: team breakouts and assignment, architecture review documentation and review board, quarterly planning with agile sprint follow-on
+- Developed in conjunction with VP of Engineering the current set of processes by which the department operates, including: team breakouts and assignment, architecture review documentation and review board, quarterly planning with agile sprint follow-on
 - Served as the lead for the Engineering department's corps of principal engineers to facilitate discussions, agreed-upon solutions, and pathways for improvement in the production software and infrastructure
 
 ### Clarity Innovations - Columbia, MD
