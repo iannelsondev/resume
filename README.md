@@ -3,6 +3,7 @@
 ## E-MAIL
 
 iannelson1 [at] gmail.com
+me [at] iannelson.dev
 
 ## LINKEDIN
 
